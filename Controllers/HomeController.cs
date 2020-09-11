@@ -15,7 +15,7 @@ namespace WebApplicationAzure.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Damon Salvatore Page";
+            ViewBag.Message = "Damon Salvatore Page... elena i m ooming for you ";
 
             return View();
         }
